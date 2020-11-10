@@ -1,7 +1,7 @@
 ### Hello World! [:octocat:](https://sucremad.wordpress.com/)
 ![](https://data.whicdn.com/images/178210320/original.gif) <br/>
- <br/>
-How to reach me:[:mailbox_with_mail:](sucremad@gmail.com)
+_____
+:mailbox_with_mail: sucremad@gmail.com
 
 <!--
 **sucremad/sucremad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
