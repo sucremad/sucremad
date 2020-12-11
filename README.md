@@ -47,10 +47,15 @@ Here are some ideas to get you started:
   
  #### Want to learn :skull:  <br/> <br/>
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
-  
 
-------
+-----
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 * :mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
+<!-- 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+----
+[![Sucremad's github stats](https://github-readme-stats.vercel.app/api?username=sucremad)](https://github.com/sucremad/github-readme-stats)
+-->
