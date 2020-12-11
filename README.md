@@ -35,20 +35,20 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-I_am_looking_for_a_mentor!-d689bb?style=flat&logo=help)
 ----
 
- #### Currently Learning :rabbit: <br/>  <br/> 
+ #### :rabbit: Currently Learning  <br/>  <br/> 
   ![](https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby)
   ![](https://img.shields.io/badge/-CLanguage-71a1bc?style=flat&logo=c)
   
   
-  #### Under Improving :paw_prints: <br/>  <br/>
+  #### :paw_prints: Under Improving  <br/>  <br/>
   ![](https://img.shields.io/badge/-Python-68c171?style=flat&logo=Python)
   ![](https://img.shields.io/badge/-Linux-555156?style=flat&logo=linux)
 
- #### Some Knowladge :frog: <br/> <br/>
+ #### :frog: Some Knowladge  <br/> <br/>
   ![](https://img.shields.io/badge/-Csharp-b094b5?style=flat&logo=cs)
    ![](https://img.shields.io/badge/-Java-b55655?style=flat&logo=java)
   
- #### Want to learn :skull:  <br/> <br/>
+ #### :skull: Want to learn   <br/> <br/>
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
 
 -----
