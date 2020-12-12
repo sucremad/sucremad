@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - :octopus: I am currently a third year Computer Engineering student.- 
 * :volcano: I am currently intereseted in Cyber Security - _Pure New_  
     <br/> <br/>
-![](https://img.shields.io/badge/-I_am_looking_for_a_mentor!-d689bb?style=flat&logo=help)
+
 ----
 
  #### :rabbit: Currently Learning  <br/>  <br/> 
