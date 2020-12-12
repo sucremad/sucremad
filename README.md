@@ -49,7 +49,9 @@ Here are some ideas to get you started:
    ![](https://img.shields.io/badge/-Java-b55655?style=flat&logo=java)
   
  #### :skull: Want to learn   <br/> <br/>
+  ![](https://img.shields.io/badge/-Rust-pink?style=flat&logo=rust)
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
+ 
 
 -----
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
