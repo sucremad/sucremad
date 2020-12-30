@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
--->
+
 
 - :octopus: I am currently a third year Computer Engineering student.- 
 * :volcano: I am currently intereseted in Cyber Security - _Pure New_  
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/-Rust-pink?style=flat&logo=rust)
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
  
-
+-->
 -----
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
 
