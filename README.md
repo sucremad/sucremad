@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/-Python-68c171?style=flat&logo=Python)
   ![](https://img.shields.io/badge/-Linux-555156?style=flat&logo=linux)
 
- #### :frog: Some Knowladge  <br/> <br/>
+ #### :frog: Some Knowledge  <br/> <br/>
   ![](https://img.shields.io/badge/-Csharp-b094b5?style=flat&logo=cs)
    ![](https://img.shields.io/badge/-Java-b55655?style=flat&logo=java)
   
