@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <br/> <br/>
 
 ----
-
+-->
  #### :rabbit: Currently Learning  <br/>  <br/> 
   ![](https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby)
   ![](https://img.shields.io/badge/-CLanguage-71a1bc?style=flat&logo=c)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/-Rust-pink?style=flat&logo=rust)
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
  
--->
+----
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
 
 * :mailbox_with_mail: Contact me: 
