@@ -53,7 +53,6 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
  
 -->
------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
 
 * :mailbox_with_mail: Contact me: 
