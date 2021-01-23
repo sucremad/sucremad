@@ -1,5 +1,7 @@
 ### Hi!  [:octocat:](https://cybling.wordpress.com/)
-![](https://data.whicdn.com/images/178210320/original.gif) <br/>
+![](https://data.whicdn.com/images/178210320/original.gif)
+
+<br/>
 _____
 
 
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 
 ----
 -->
+
  #### :rabbit: Currently Learning  <br/>  <br/> 
   ![](https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby)
   ![](https://img.shields.io/badge/-CLanguage-71a1bc?style=flat&logo=c)
@@ -53,11 +56,14 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/-GoLang-white?style=flat&logo=golang) <br/>
  
 ----
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
+<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucremad&&langs_count=5&line_height=35&theme=dark" />
 * :mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
- 
+
+
 <!-- 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
