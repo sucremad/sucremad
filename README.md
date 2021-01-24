@@ -1,11 +1,7 @@
 ### Hi!  [:octocat:](https://cybling.wordpress.com/)
 ![](https://data.whicdn.com/images/178210320/original.gif) 
 
-<br/>
-_____
-
-
-
+-------
 <!--
 **sucremad/sucremad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
