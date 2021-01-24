@@ -1,5 +1,5 @@
 ### Hi!  [:octocat:](https://cybling.wordpress.com/)
-![](https://data.whicdn.com/images/178210320/original.gif)
+![](https://data.whicdn.com/images/178210320/original.gif) 
 
 <br/>
 _____
@@ -20,16 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+--->
 
 
-  / _ \          <br/>
-\_\(_)/_/        <br/>
- _//"\\_  Max     <br/>
-  /   \            <br/>
-
-
-
-
+<!--
 
 - :octopus: I am currently a third year Computer Engineering student.- 
 * :volcano: I am currently intereseted in Cyber Security - _Pure New_  
@@ -62,7 +56,13 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucremad&&hide=Jupyter Notebook&&langs_count=5&line_height=35&theme=yellow" />
 * :mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
+```
+     / _ \         
+   \_\(_)/_/    
+    _//"\\_     
+     /   \         
 
+```
 
 <!-- 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
