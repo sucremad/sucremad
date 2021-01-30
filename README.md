@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
 <br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucremad&&hide=Jupyter Notebook&&langs_count=5&line_height=35&theme=yellow" />
+
 * :mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
 ```
