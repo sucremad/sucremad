@@ -1,7 +1,6 @@
-### Hi!  [:octocat:](https://cybling.wordpress.com/)
-![](https://data.whicdn.com/images/178210320/original.gif) 
+# Hi! [:octocat:](https://cybling.wordpress.com/) 
+<img src="https://media.giphy.com/media/l378aQHim5B3sJqVi/giphy.gif" align="right" >
 
--------
 <!--
 **sucremad/sucremad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,10 +46,12 @@ Here are some ideas to get you started:
  
 ----
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
+
 <br/>
 
-* :mailbox_with_mail: Contact me: 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
+
+:mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
 ```
      / _ \         
@@ -59,10 +60,10 @@ Here are some ideas to get you started:
      /   \         
 
 ```
-
 <!-- 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ----
+
 [![Sucremad's github stats](https://github-readme-stats.vercel.app/api?username=sucremad)](https://github.com/sucremad/github-readme-stats)
 -->
