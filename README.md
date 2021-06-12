@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 :mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
+ 
+ <!-- 
 ```
      / _ \         
    \_\(_)/_/    
@@ -60,7 +62,7 @@ Here are some ideas to get you started:
      /   \         
 
 ```
-<!-- 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ----
