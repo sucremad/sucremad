@@ -51,6 +51,12 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sucremad.311505578})
 
+
+
+👶 currently interested in malware analysis as a noob
+
+
+
 :mailbox_with_mail: Contact me: 
  sucremad@gmail.com <br/>
  
