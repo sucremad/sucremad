@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
  
-🖤 currently interested in malware analysis
+🖤 student, currently interested in malware analysis
 
 
 
