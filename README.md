@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 
 
 
-👶 currently interested in malware analysis as a noob
+ 
+🖤 currently interested in malware analysis
 
 
 
