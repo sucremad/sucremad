@@ -1,4 +1,4 @@
-# Hi! [:octocat:](https://cybling.wordpress.com/) 
+# Hi! 🕷️
 <img src="https://media.giphy.com/media/l378aQHim5B3sJqVi/giphy.gif" align="right" height=200 >
 
 <!--
