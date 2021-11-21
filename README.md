@@ -54,8 +54,7 @@ Here are some ideas to get you started:
 
 
  
-🖤 student, currently interested in malware analysis and reverse engineering
-
+🖤 student
 
 
 :mailbox_with_mail: Contact me: 
