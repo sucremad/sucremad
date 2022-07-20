@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
  
-🖤 student
+🖤 Security Case Officer
 
 
 :mailbox_with_mail: Contact me: 
